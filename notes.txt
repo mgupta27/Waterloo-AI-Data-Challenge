@@ -1,0 +1,23 @@
+Waterloo AI Data Challenge
+
+- Camera feed from factories 
+- Monitor what is happening on the factory floor
+- 6 regions of interest 
+- Count humans in the regions of interest
+- Frame rate is 15 frames per second
+
+Final Grading
+- Accuracy 60%
+- Presentation 40%
+
+Plan
+- Get video feed
+- Take snapshots of regions of interest
+- pass images to ML model to see if a human is there
+
+Zone 1: 6601 Percentage: 48.89%
+Zone 2: 4965 Percentage: 36.77%
+Zone 3: 6262 Percentage: 46.38%
+Zone 4: 8308 Percentage: 61.54%
+Zone 5: 2952 Percentage: 21.87%
+Zone 6: 2910 Percentage: 21.55%
